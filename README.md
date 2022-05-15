@@ -1,6 +1,6 @@
 # Argon Nucleus
 
-Flutter webview wrapper of cubemason.com/atomicnucleus
+Flutter webview wrapper of [cubemason: atomic nucleus](http://cubemason.com/atomicnucleus/334/12.12.0.html)
 
 ## Getting Started
 
