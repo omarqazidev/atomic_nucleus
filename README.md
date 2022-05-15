@@ -1,6 +1,6 @@
-# argon_nucleus
+# Argon Nucleus
 
-A new Flutter project.
+Flutter webview wrapper of cubemason.com/atomicnucleus
 
 ## Getting Started
 
